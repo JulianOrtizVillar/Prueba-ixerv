@@ -1,7 +1,7 @@
 # Prueba-ixerv
 Prueba Prueba ixerv login 
 
-hay que usar visual studio 
+hay que usar visual studio y sql server 
 el rograma se realizo con c# y con sql server
 
 para correr el programa:
